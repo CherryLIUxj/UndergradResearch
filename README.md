@@ -1,4 +1,4 @@
-# Quasar Selection within |b|&lt;5 deg with Transfer Learning
+# Quasar Selection within |b|&lt;5 deg Based on Transfer Learning
 
 Quasars behind the Galactic plane (GPQs) are useful tools for studying the gas structure of Milky Way, and provide important astrometric references that help to improve the accuracy of astrometric data.   
   
